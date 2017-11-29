@@ -1,2 +1,2 @@
 # Businesscard
-Business card model
+An android app with a design like business card
